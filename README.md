@@ -6,7 +6,7 @@ _Ministrado pelo [Henrique Schreiner](https://github.com/hmschreiner)_
 
 ## Assuntos gerais abordados no curso
 
--   [ ] Hello world com Express
+-   [x] Hello world com Express
 -   [ ] Criação de API
 -   [ ] elaboração e consumo de endpoints
 -   [ ] Simulação de requisição HTTP com postman
